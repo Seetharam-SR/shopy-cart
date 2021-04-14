@@ -3,6 +3,7 @@ Shopy-cart ( web-page for purchasing the Automobiles )
 
 programming languages used:
 HTML, PHP, CSS
+
 In the navigation bar we can see the 3 Navbars: Home, products, contact-us
 
 1. if we click on producuts then it will land on the products, which the user can purchase.
